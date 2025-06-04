@@ -14,9 +14,9 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#mobiles">Clothes</a>
-                <li><a href="#laptops">Decoration</a></li>
-                <li><a href="#clothes">Dining</a></li>
+                <li><a href="#Clothes">Clothes</a>
+                <li><a href="#Decoration">Decoration</a></li>
+                <li><a href="#Dining">Dining</a></li>
                 <li><a href="#cart"><em class="fas fa-shopping-cart"></em> Cart <span id="cart-count">0</span></a></li>
             </ul>
         </nav>
