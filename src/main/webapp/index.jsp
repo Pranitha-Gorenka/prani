@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width"> <!-- Bug: Missing initial-scale=1.0 -->
-    <title>Temu - ECOmmerce website at your door</title>
+    <title>Temu - ECommerce website at your door</title>
     <link rel="stylesheet" href="style.css"> <!-- Bug: Incorrect file name (should be styles.css) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/font-awesome.min.css"> <!-- Bug: Wrong file name for Font Awesome -->
 </head>
 <body>
     <header>
         <div class="logo">
-            <h1>Temu - ECOmmerce website at your door<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h1>Temu<h1> <!-- Bug: Missing closing slash on <h1> -->
         </div>
         <nav>
             <ul>
