@@ -16,29 +16,29 @@
             <ul>
                 <li><a href="#Clothes">Clothes</a>
                 <li><a href="#Decoration">Decoration</a></li>
-                <li><a href="#Dining">Dining</a></li>
+                <li><a href="#Accessories">Accessories</a></li>
                 <li><a href="#cart"><em class="fas fa-shopping-cart"></em> Cart <span id="cart-count">0</span></a></li>
             </ul>
         </nav>
     </header>
 
     <main>
-        <section id="mobiles" class="product-section">
-            <h2>Smartphones</h2>
+        <section id="Clothes" class="product-section">
+            <h2>Partywear/Dailywear/outdoorwear</h2>
             <div class="product-grid" id="mobile-product"> <!-- Bug: ID should be 'mobile-products' -->
                 <!-- Mobile products will be inserted here by JavaScript -->
             </div>
         </section>
 
-        <section id="laptops" class="product-section">
-            <h2>Laptops</h2>
+        <section id="Decoration" class="product-section">
+            <h2>Livingroom/Kitchen/Bedroom/Balcony</h2>
             <div class="product-grid" id="laptop-products">
                 <!-- Laptop products will be inserted here by JavaScript -->
             </div>
         </section>
 
-        <section id="clothes" class="product-section">
-            <h2>Clothing</h2>
+        <section id="Accessories" class="product-section">
+            <h2>Sunglasses/Handbags/Footwear</h2>
             <div class="product-gridd" id="clothing-products"> <!-- Bug: class name typo 'product-gridd' -->
                 <!-- Clothing products will be inserted here by JavaScript -->
             </div>
@@ -54,9 +54,9 @@
             <div class="footer-section">
                 <h3>Quick Links</h3>
                 <ul>
-                    <li><a href="#mobile">Mobiles</a></li> <!-- Bug: Incorrect anchor ID (should be #mobiles) -->
-                    <li><a href="#laptps">Laptops</a></li> <!-- Bug: Typo in href (#laptps instead of #laptops) -->
-                    <li><a href="#clothes">Clothes</a></li>
+                    <li><a href="#mobile">CLothing</a></li> <!-- Bug: Incorrect anchor ID (should be #mobiles) -->
+                    <li><a href="#laptps">Decoration</a></li> <!-- Bug: Typo in href (#laptps instead of #laptops) -->
+                    <li><a href="#clothes">Accessories</a></li>
                 </ul>
             </div>
             <div class="footer-section">
